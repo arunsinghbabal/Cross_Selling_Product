@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to our cross-selling initiative for Product A and Product B! This README provides a brief overview of how to effectively promote and cross-sell these two complementary products to boost sales and enhance the customer experience.
+Welcome to our cross-selling initiative for Product A and Product B! This provides a brief overview of how to effectively promote and cross-sell these two complementary products to boost sales and enhance the customer experience.
 
 ## What is Cross-Selling?
 
